@@ -1,0 +1,15 @@
+Line 1="Welcome to My Super Duper Cool Website!"
+Line 1 css="color: #ff6f61; font-size: 48px; text-align: center; font-family: 'Arial', sans-serif; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);"
+
+Line 2="This website was built using a custom programming language. How cool is that?"
+Line 2 css="color: #333; font-size: 20px; text-align: center; font-family: 'Arial', sans-serif; margin-top: 20px;"
+
+Line 3 img="cool-image.jpg"
+Line 3 css="display: block; margin: 0 auto; max-width: 100%; height: auto; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"
+
+Line 4 button="Click Me for a Surprise!"
+Line 4 css="display: block; margin: 30px auto; padding: 15px 30px; font-size: 18px; color: white; background-color: #4CAF50; border: none; border-radius: 5px; cursor: pointer; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"
+Line 4 link="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+
+Line 5="Made with ❤️ by You"
+Line 5 css="color: #777; font-size: 16px; text-align: center; font-family: 'Arial', sans-serif; margin-top: 50px;"
